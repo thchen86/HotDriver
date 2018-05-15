@@ -26,4 +26,4 @@ Sample_ID	Gene_ID	Chromosome	Start	End	Ref_allele	Alt_allele	Protein_variant	Mut
 	
 The user could choose different data sources, but the format of each individual file has to be exactly the same as that of the example files to make sure HotDriver work properly.
 
-Please contact tchen1@mdanderson.org or kchen3@mdanderson.org if the user may have any questions.
+Please contact thchenb@gmail.com or kchen3@mdanderson.org if the user may have any questions.
